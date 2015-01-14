@@ -1,46 +1,23 @@
 ## DE.com Blog Post Submission Guidelines
 
+Please provide the following information to submit your blog post to DeveloperEconomics.com.
+
 #### Blog post
 
-1. **Content**
-
-   * Between 600 and 1,200 words;
-   * Delivered in Google Docs, Microsoft Word or Markdown format.
-
-2. **Title**
-   
-   * Should not exceed 70 characters in length.
-
-3. **Abstract**
-
-   * Describes the key messages and/or summarises the topic;
-   * Should not exceed 60 words in length.
-
-4. **Assets (e.g. images, videos)**
-
-   * Delivered separately in a zip archive, as well as within the post content itself (so that we know the exact position they would appear);
-   * Images should be at least 800px wide.
+* `Content` the post content; must be between 600 and 1,200 words; delivered in Google Docs, Microsoft Word or Markdown format
+* `Title` the post title; should not exceed 70 characters in length
+* `Abstract` an abstract to summarize the key takeouts; should not exceed 60 words in length
+* `Media assets` e.g. images, videos, etc; delivered separately in a zip archive, as well as within in the post content (so we know the exact position they would appear); images should be at least 800px wide
 
 #### Author info
 
-1. **Short bio**
+* `Short bio` a short bio of the author; must not contain hyperlinks; 80 words is a good rule of thumb
+* `Profile picture` delivered in JPEG format or a gravatar-registered email address (assuming the author retains an account on Gravatar)
+* `Homepage URL` a link to the author's company or blog URL
+* `Social Media links`
+  * `Twitter handle` the author's username on [Twitter](https://twitter.com/) (optional)
+  * `LinkedIn URL` a link to the author's page on [Twitter](https://twitter.com/) (optional)
 
-   * Must not contain hyperlinks;
-   * 80 words is a good rule of thumb.
+#### Notes
 
-2. **Profile picture**
-
-   * Delivered JPEG format or a gravatar-registered email address (assuming the author retains an account on Gravatar).
-
-3. **Social Media links**
-
-   * Twitter handle;
-   * LinkedIn URL.
-
-4. **Homepage links**
-
-   * Company or personal URL.
-
-## Submission
-
-Submit the blog post and author info via email to **editor-at-visionmobile.com**.
+* Visionmobile retains the right to change the content and title of the post for SEO or editorial purposes.
