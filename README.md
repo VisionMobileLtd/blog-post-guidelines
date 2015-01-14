@@ -1,4 +1,4 @@
-## Requirements
+## DE.com Blog Post Submission Guidelines
 
 #### Blog post
 
