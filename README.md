@@ -8,6 +8,7 @@ To submit your blog post to DeveloperEconomics.com, you need to provide the actu
 * `Title` the post title; should not exceed 70 characters in length
 * `Abstract` an abstract to summarize the key takeouts; should not exceed 60 words in length
 * `Media assets` e.g. images, videos, etc; delivered separately in a zip archive, as well as within in the post content (so we know the exact position they would appear); images should be at least 800px wide
+* `Quotation` sentences from the content that we can use to promote the post; must not exceed 140 characters in length
 
 #### Author info
 
