@@ -1,8 +1,8 @@
 ## DE.com Blog Post Submission Guidelines
 
-Please provide the following information to submit your blog post to DeveloperEconomics.com.
+To submit your blog post to DeveloperEconomics.com, you need to provide the actual post content, as well as your personal (author) info.
 
-#### Blog post
+#### Content
 
 * `Content` the post content; must be between 600 and 1,200 words; delivered in Google Docs, Microsoft Word or Markdown format
 * `Title` the post title; should not exceed 70 characters in length
@@ -12,7 +12,7 @@ Please provide the following information to submit your blog post to DeveloperEc
 #### Author info
 
 * `Short bio` a short bio of the author; must not contain hyperlinks; 80 words is a good rule of thumb
-* `Profile picture` delivered in JPEG format or a gravatar-registered email address (assuming the author retains an account on Gravatar)
+* `Profile picture` delivered in JPEG format; alternatively you may provide your gravatar-registered email address
 * `Homepage URL` a link to the author's company or blog URL
 * `Social Media links`
   * `Twitter handle` the author's username on [Twitter](https://twitter.com/) (optional)
