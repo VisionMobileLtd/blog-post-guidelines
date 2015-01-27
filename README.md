@@ -1,6 +1,6 @@
 ## DE.com Blog Post Submission Guidelines
 
-To submit your blog post to DeveloperEconomics.com, you need to provide the actual post content, as well as your personal (author) info.
+To submit your blog post to DeveloperEconomics.com, you need to provide the post content, as well as your personal (author) info.
 
 #### Content
 
