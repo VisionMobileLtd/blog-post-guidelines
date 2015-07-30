@@ -17,7 +17,7 @@ To submit your blog post to DeveloperEconomics.com, you need to provide the post
 * `Homepage URL` a link to the author's company or blog URL
 * `Social Media links`
   * `Twitter handle` the author's username on [Twitter](https://twitter.com/) (optional)
-  * `LinkedIn URL` a link to the author's page on [Twitter](https://twitter.com/) (optional)
+  * `LinkedIn URL` a link to the author's page on [LinkedIn](https://www.linkedin.com) (optional)
 
 #### Notes
 
